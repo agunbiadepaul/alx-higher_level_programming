@@ -14,3 +14,4 @@ What is a sequence
 What is tuple packing
 What is sequence unpacking
 What is the del statement and how to use it
+All about data structure in python
